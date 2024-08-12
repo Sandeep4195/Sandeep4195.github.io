@@ -1,4 +1,3 @@
-![Alt text](profile.jpg)
 <img src="profile.jpg" alt="My Photo" style="width:200px;">
 
 title: "About Me"
