@@ -2,6 +2,11 @@
 
 [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
+title: Sandeep Kumar Soni
+logo: /profile.jpg
+<img src="/path/to/photo.jpg" alt="My Photo" class="profile-photo">
+#description: text below image
+show_downloads: true
 title: "Welcome to My Academic Webpage"
 description: "An overview of my academic work, research, and publications."
 ---
