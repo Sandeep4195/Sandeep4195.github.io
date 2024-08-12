@@ -1,5 +1,6 @@
 title: Sandeep Kumar Soni
 logo: /profile.jpg
+<img src="/path/to/photo.jpg" alt="My Photo" class="profile-photo">
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
