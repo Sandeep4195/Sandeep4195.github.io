@@ -1,3 +1,4 @@
+[Home](index.md) | [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
 title: "Welcome to My Academic Webpage"
 description: "An overview of my academic work, research, and publications."
