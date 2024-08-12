@@ -1,5 +1,4 @@
 # Sandeep4195.github.io
-# <link rel="stylesheet" type="text/css" href="styles.css">
 
 [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
