@@ -1,5 +1,6 @@
 [Home](index.md) | [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
+<img src="profile.jpg" alt="My Photo" style="width:200px;">
 title: "Welcome to My Academic Webpage"
 description: "An overview of my academic work, research, and publications."
 ---
@@ -23,3 +24,5 @@ My research interests include:
 ## Contact
 - Email: [your email]
 - Twitter: [your Twitter handle]
+- Linkedin: [My LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
