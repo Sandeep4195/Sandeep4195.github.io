@@ -1,7 +1,7 @@
 # Sandeep4195.github.io
 # <link rel="stylesheet" type="text/css" href="styles.css">
 
-[Home](index.md) | [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
+[About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
 # <img src="profile.jpg" alt="My Photo" style="width:200px;">
 
