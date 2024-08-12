@@ -2,8 +2,6 @@
 
 [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
-# <img src="profile.jpg" alt="My Photo" style="width:200px;">
-
 title: "Welcome to My Academic Webpage"
 description: "An overview of my academic work, research, and publications."
 ---
