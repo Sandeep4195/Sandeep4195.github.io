@@ -1,4 +1,4 @@
----
+![Alt text](profile.jpg)
 title: "About Me"
 ---
 
