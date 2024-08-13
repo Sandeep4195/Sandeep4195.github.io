@@ -5,4 +5,4 @@ logo: /profile.jpg
 show_downloads: true
 title: "Welcome to My Academic Webpage"
 description: "An overview of my academic work, research, and publications."
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
