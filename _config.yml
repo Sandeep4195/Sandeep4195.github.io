@@ -3,6 +3,6 @@ logo: /profile.jpg
 #<img src="profile.jpg" alt="My Photo" style="width:200px;">
 #description: text below image
 show_downloads: true
-title: "Sandeep K. Soni"
+title: "Sandeep Kumar Soni"
 description: "An overview of my academic work, research, and publications."
 theme: jekyll-theme-minimal
