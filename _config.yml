@@ -1,6 +1,6 @@
 title: Sandeep Kumar Soni
 logo: /profile.jpg
-<img src="profile.jpg" alt="My Photo" style="width:200px;">
+#<img src="profile.jpg" alt="My Photo" style="width:200px;">
 #description: text below image
 show_downloads: true
 title: "Welcome to My Academic Webpage"
