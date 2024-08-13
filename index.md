@@ -1,4 +1,4 @@
-[Home](index.md) | [About Me](about.md) | [Research](research.md) | [Publications](publications.md)
+[About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
 ---
 
