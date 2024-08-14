@@ -1,12 +1,8 @@
 ---
 title: "Sandeep Kumar Soni"
-logo: "/profile3.jpg"
+#logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
-show_downloads: true
+#show_downloads: true
 ---
 
-## Downloads and Links
 
-- [Download My CV](./path-to-your-cv/My_CV.pdf)
-- [My Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ)
-- [Connect with Me on LinkedIn](https://www.linkedin.com/in/sandeep-soni-90bbb3243/)
