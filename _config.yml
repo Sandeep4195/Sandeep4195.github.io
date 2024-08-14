@@ -2,31 +2,6 @@ title: "Sandeep Kumar Soni"
 logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
 show_downloads: true
-downloads:
-  - name: "Download CV"
-    link: "/My_CV.pdf"
-    icon: "/cv.png"
-  - name: "Google Scholar"
-    link: "https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ"
-    icon: "/google-scholar-icon.png"
-  - name: "LinkedIn"
-    link: "https://www.linkedin.com/in/sandeep-soni-90bbb3243/"
-    icon: "/linkedin.png"
-
-# Optional: hide default download buttons
-custom_css:
-  - |
-    .page-header a.btn {
-      display: none;
-    }
-    .custom-links a {
-      margin-right: 10px;
-      text-decoration: none;
-    }
-    .custom-links img {
-      width: 30px;
-      height: 30px;
-    }
 description: >
   <div class="custom-links" style="text-align: center;">
     <a href="/My_CV.pdf" download>
@@ -40,16 +15,4 @@ description: >
     </a>
   </div>
 
-  custom_css:
-  - |
-    .custom-links {
-      display: flex;
-      justify-content: center;
-      margin-top: 10px;
-    }
-    .custom-links img {
-      margin: 0 5px;
-      width: 30px;
-      height: 30px;
-    }
 
