@@ -1,8 +1,13 @@
-#title: Sandeep Kumar Soni
+title: Sandeep Kumar Soni
 logo: /profile3.jpg
 #<img src="profile.jpg" alt="My Photo" style="width:200px;">
 #description: text below image
 show_downloads: true
-#title: "Sandeep Kumar Soni"
-description: "An overview of my academic work, research, and publications."
+## Downloads and Links
+- [Download My CV](./path-to-your-cv/my_cv.pdf)
+- [My Google Scholar Profile](https://scholar.google.com/citations?user=your_user_id)
+- [Connect with Me on LinkedIn](https://www.linkedin.com/in/your_profile)
+
+title: "Sandeep Kumar Soni"
+#description: "An overview of my academic work, research, and publications."
 theme: jekyll-theme-minimal
