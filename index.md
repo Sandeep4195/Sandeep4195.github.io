@@ -2,8 +2,8 @@
 ---
 ---
 
-# About Me
-I am a [your position] at [your institution], focusing on [your research area].
+## Postdoctral researcher 
+University of Zagreb, Croatia
 
 ## Research
 My research interests include:
