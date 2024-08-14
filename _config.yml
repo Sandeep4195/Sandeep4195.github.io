@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 show_downloads: true
 downloads:
   - name: "Download CV"
-    link: "/path-to-your-cv/My_CV.pdf"
+    link: "/My_CV.pdf"
     icon: "/assets/icons/cv-icon.png"
   - name: "Google Scholar"
     link: "https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ"
