@@ -2,13 +2,14 @@
 ---
 ---
 
-## Postdoctral researcher 
+## Postdoctral Researcher 
 University of Zagreb, Croatia
 
-## Research
-My research interests include:
-- Topic 1
-- Topic 2
+## Research Interest
+- Partial Differential Equations
+- Functional Analysis
+- Operator Theory
+- Semigroup Theory
 
 ## Publications
 - [Title of Paper 1](link to paper)
