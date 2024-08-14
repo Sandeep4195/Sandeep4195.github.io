@@ -8,19 +8,6 @@ theme: jekyll-theme-minimal
 
 ---
 
-<!-- Downloads and Links Section -->
-<div style="text-align: center; margin-top:10px;">
-  <a href="./path-to-your-cv/My_CV.pdf" download>
-    <img src="/assets/icons/cv-icon.png" alt="Download CV" style="width:30px; height:30px; margin-right: 10px;">
-  </a>
-  <a href="https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ" target="_blank">
-    <img src="/assets/icons/google-scholar-icon.png" alt="Google Scholar" style="width:30px; height:30px; margin-right: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/sandeep-soni-90bbb3243/" target="_blank">
-    <img src="/assets/icons/linkedin-icon.png" alt="LinkedIn" style="width:30px; height:30px;">
-  </a>
-</div>
-
 ---
 
 ## Postdoctoral Researcher 
