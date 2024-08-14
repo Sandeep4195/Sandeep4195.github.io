@@ -3,6 +3,17 @@ logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
 show_downloads: True
 
+# Remove GitHub Ribbon
+github:
+  ribbon: false
+
+# Remove GitHub Repository Link
+repository: false
+
+# Remove Footer Credit
+footer:
+  powered_by: false
+
 
 
 
