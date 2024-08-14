@@ -2,6 +2,7 @@ title: "Sandeep Kumar Soni"
 logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
 #show_downloads: true
+description:
 <!-- Downloads and Links Section -->
 <div style="text-align: center; margin-top:10px;">
   <a href="./my_cv.pdf" download>
