@@ -1,5 +1,5 @@
 ---
-title: "Sandeep Kumar Soni"
+title: "Home"
 theme: jekyll-theme-minimal
 ---
 
