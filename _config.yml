@@ -39,3 +39,17 @@ description: >
       <img src="/linkedin.png" alt="LinkedIn">
     </a>
   </div>
+
+  custom_css:
+  - |
+    .custom-links {
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+    }
+    .custom-links img {
+      margin: 0 5px;
+      width: 30px;
+      height: 30px;
+    }
+
