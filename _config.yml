@@ -3,8 +3,7 @@ logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
 show_downloads: true
 description: >
-<!-- Downloads and Links Section -->
-<div style="text-align: center; margin-top:10px;">
+<div style="text-align: center; ">
   <a href="./my_cv.pdf" download>
     <img src="/cv.png" alt="Download CV" style="width:30px; height:30px; margin-right: 10px;">
   </a>
