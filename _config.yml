@@ -5,13 +5,13 @@ show_downloads: true
 downloads:
   - name: "Download CV"
     link: "/My_CV.pdf"
-    icon: "/assets/icons/cv-icon.png"
+    icon: "/cv.png"
   - name: "Google Scholar"
     link: "https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ"
-    icon: "/assets/icons/google-scholar-icon.png"
+    icon: "/google-scholar-icon.png"
   - name: "LinkedIn"
     link: "https://www.linkedin.com/in/sandeep-soni-90bbb3243/"
-    icon: "/assets/icons/linkedin-icon.png"
+    icon: "/linkedin.png"
 
 # Optional: hide default download buttons
 custom_css:
