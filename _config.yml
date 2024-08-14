@@ -1,16 +1,29 @@
 title: "Sandeep Kumar Soni"
 logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
-#show_downloads: true
-description: >
-  <div style="text-align: center;">
-    <a href="/path-to-your-cv/My_CV.pdf" download>
-      <img src="/assets/icons/cv-icon.png" alt="Download CV" style="width:30px; height:30px; margin-right: 10px;">
-    </a>
-    <a href="https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ" target="_blank">
-      <img src="/assets/icons/google-scholar-icon.png" alt="Google Scholar" style="width:30px; height:30px; margin-right: 10px;">
-    </a>
-    <a href="https://www.linkedin.com/in/sandeep-soni-90bbb3243/" target="_blank">
-      <img src="/assets/icons/linkedin-icon.png" alt="LinkedIn" style="width:30px; height:30px;">
-    </a>
-  </div>
+show_downloads: true
+downloads:
+  - name: "Download CV"
+    link: "/path-to-your-cv/My_CV.pdf"
+    icon: "/assets/icons/cv-icon.png"
+  - name: "Google Scholar"
+    link: "https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ"
+    icon: "/assets/icons/google-scholar-icon.png"
+  - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/sandeep-soni-90bbb3243/"
+    icon: "/assets/icons/linkedin-icon.png"
+
+# Optional: hide default download buttons
+custom_css:
+  - |
+    .page-header a.btn {
+      display: none;
+    }
+    .custom-links a {
+      margin-right: 10px;
+      text-decoration: none;
+    }
+    .custom-links img {
+      width: 30px;
+      height: 30px;
+    }
