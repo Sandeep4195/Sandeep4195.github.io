@@ -16,6 +16,8 @@ University of Zagreb, Croatia
 - Functional Analysis
 - Operator Theory
 - Semigroup Theory
+
+  
 ---
 
 <!-- Downloads and Links Section -->
