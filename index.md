@@ -1,8 +1,35 @@
-[About Me](about.md) | [Research](research.md) | [Publications](publications.md)
 ---
+title: "Sandeep Kumar Soni"
+logo: "/profile3.jpg"
+theme: jekyll-theme-minimal
 ---
 
-## Postdoctral Researcher 
+<!-- Navigation Links -->
+[About Me](about.md) | [Research](research.md) | [Publications](publications.md)
+
+---
+
+<!-- Profile Section -->
+<div style="text-align: center;">
+  <img src="/profile3.jpg" alt="Sandeep Kumar Soni" style="width:150px; height:150px; border-radius:50%; margin-top:20px;">
+</div>
+
+<!-- Downloads and Links Section -->
+<div style="text-align: center; margin-top:10px;">
+  <a href="./path-to-your-cv/My_CV.pdf" download>
+    <img src="/assets/icons/cv-icon.png" alt="Download CV" style="width:30px; height:30px; margin: 0 10px;">
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=zXOJ0cQAAAAJ" target="_blank">
+    <img src="/assets/icons/google-scholar-icon.png" alt="Google Scholar" style="width:30px; height:30px; margin: 0 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-soni-90bbb3243/" target="_blank">
+    <img src="/assets/icons/linkedin-icon.png" alt="LinkedIn" style="width:30px; height:30px; margin: 0 10px;">
+  </a>
+</div>
+
+---
+
+## Postdoctoral Researcher 
 University of Zagreb, Croatia
 
 ## Research Interest
@@ -10,16 +37,3 @@ University of Zagreb, Croatia
 - Functional Analysis
 - Operator Theory
 - Semigroup Theory
-
-## Publications
-- [Title of Paper 1](link to paper)
-- [Title of Paper 2](link to paper)
-
-## Projects
-- [Project Name 1](link to project)
-- [Project Name 2](link to project)
-
-## Contact
-- Email: [your email]
-- Twitter: [your Twitter handle]
-- Linkedin: [My LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
