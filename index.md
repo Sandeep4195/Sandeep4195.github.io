@@ -21,7 +21,7 @@ University of Zagreb, Croatia
 ---
 
 <!-- Downloads and Links Section -->
-<div style="text-align: center; margin-top:10px;">
+<div style="text-align: margin-top:10px;">
   <a href="./my_cv.pdf" download>
     <img src="/cv.png" alt="Download CV" style="width:30px; height:30px; margin-right: 10px;">
   </a>
