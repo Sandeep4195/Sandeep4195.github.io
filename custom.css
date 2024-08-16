@@ -1,0 +1,11 @@
+/* assets/css/custom.css */
+
+/* Hide the GitHub Profile Link */
+a[href*="github.com"] {
+  display: none;
+}
+
+/* Hide the Footer Credit */
+footer, .footer {
+  display: none;
+}
