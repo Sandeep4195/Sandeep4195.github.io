@@ -1,19 +1,18 @@
 title: "Sandeep Kumar Soni"
 logo: "/profile3.jpg"
 theme: jekyll-theme-minimal
-show_downloads: True
+show_downloads: true
 
-# Remove GitHub Ribbon
+# GitHub Settings
 github:
-  ribbon: false
+  ribbon: false # This might not work depending on the theme
 
-# Remove GitHub Repository Link
+# Repository Link (if applicable, might not work in this theme)
 repository: false
 
-# Remove Footer Credit
+# Custom Footer Configuration (not supported natively by most themes)
 footer:
-  powered_by: false
-
+  powered_by: false # This will likely need custom CSS to actually work
 
 
 
